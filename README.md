@@ -74,5 +74,5 @@ The way to be an angular 2 ninja
 ###General
 * Formal Api Reference - https://angular.io/docs/ts/latest/api/
 * Angular Cookbook - https://angular.io/docs/ts/latest/cookbook/
-* List Of Videos - Angular 2 Quickstart Tutorials 2016
+* List Of Videos - Angular 2 Quickstart Tutorials 2016 - https://www.youtube.com/playlist?list=PL55RiY5tL51olfU2IEqr455EYLkrhmh3n
 * John Papa - About the master - https://johnpapa.net/about/
