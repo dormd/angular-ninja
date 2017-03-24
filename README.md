@@ -1,6 +1,20 @@
-# ng2-ninja
-The way to be an angular 2 ninja
+# angular-ninja
+The way to be an angular v2 & v4 ninja
 
+## ng4-ninja
+**Top 8 Resources to Explore Angular 4** - https://medium.com/@dormoshe/top-8-resources-to-explore-angular-4-ff2c1b42020a
+
+* **Ok… let me explain: it’s going to be Angular 4.0, or just Angular** - http://angularjs.blogspot.co.il/2016/12/ok-let-me-explain-its-going-to-be.html
+* **The Next Version of Angular is Angular v4** - https://scotch.io/bar-talk/the-next-version-of-angular-is-angular-v4
+* **5 Features To Watch Out For in Angular v4** - https://scotch.io/tutorials/5-features-to-watch-out-for-in-angular-4
+* **Server Side Rendering With Angular 4** - https://www.softwarearchitekt.at/post/2017/03/07/server-side-rendering-with-angular-4.aspx
+* **New in Angular 4** — Improved Reactive Programming Support - http://blog.angular-university.io/new-in-angular-4-better-reactive-programming-support
+* **Angular — Advanced Styling Guide (v4+)** - https://medium.com/google-developer-experts/angular-advanced-styling-guide-v4-f0765616e635
+* **A Taste from Angular Version 4** - https://netbasal.com/a-taste-from-angular-version-4-50be1c4f3550
+* **Angular 4 Features Depreciations and New Changes** - http://seowebsitedesigning.com/angular-js-4-features-depreciations-and-new-changes
+
+
+## ng2-ninja
 ### Motivation
 * Video - Motivation - The Decision Maker's Guide - Why You Should Move to Angular 2.0 Now -  http://rangle.io/resources/decision-makers-guide-why-you-should-move-angular-2-now/
 * Why Angular 2 - http://angular-2-training-book.rangle.io/handout/why_angular_2.html
