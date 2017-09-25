@@ -1,8 +1,8 @@
 # angular-ninja
-The way to be an angular v2 & v4 ninja
+The way to be an Angular ninja
 
 ## ng4-ninja
-**Top 8 Resources to Explore Angular 4** - https://medium.com/@dormoshe/top-8-resources-to-explore-angular-4-ff2c1b42020a
+**Top 8 Resources to Explore Angular v4** - https://medium.com/@dormoshe/top-8-resources-to-explore-angular-4-ff2c1b42020a
 
 * **Ok… let me explain: it’s going to be Angular 4.0, or just Angular** - http://angularjs.blogspot.co.il/2016/12/ok-let-me-explain-its-going-to-be.html
 * **The Next Version of Angular is Angular v4** - https://scotch.io/bar-talk/the-next-version-of-angular-is-angular-v4
